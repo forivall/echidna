@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/forivall/echidna#readme",
   "bin": {
-    "echidna": "bin/echidna.js"
+    "echidna": "bin/echidna.js",
+    "eci": "bin/echidna.js"
+  },
+  "dependencies": {
+    "meow": "^3.7.0"
   }
 }
