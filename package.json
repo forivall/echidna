@@ -1,0 +1,22 @@
+{
+  "name": "echidna",
+  "version": "1.0.0",
+  "description": "Tool for forking packages from and into a lerna-managed project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forivall/echidna.git"
+  },
+  "keywords": [],
+  "author": "Jordan J Klassen <forivall@gmail.com> (http://forivall.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forivall/echidna/issues"
+  },
+  "homepage": "https://github.com/forivall/echidna#readme",
+  "bin": {
+    "echidna": "bin/echidna.js"
+  }
+}
