@@ -21,6 +21,6 @@
     "eci": "bin/echidna.js"
   },
   "dependencies": {
-    "meow": "^3.7.0"
+    "meow": "^13.2.0"
   }
 }
